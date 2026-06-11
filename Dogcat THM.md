@@ -276,6 +276,4 @@ Found in `/root` directory on the host machine after escaping the Docker contain
 
 ---
 
-**Original Author:** u/fmash16  
 **Challenge:** TryHackMe - DogCat  
-**Writeup Date:** 2020-2021
